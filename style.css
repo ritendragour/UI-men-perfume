@@ -87,7 +87,7 @@ h2{
         display: none;
     }
     .home{
-        flex-direction: column-reverse;
+        flex-direction: column;
     }
     .text{
         width: 100%;
