@@ -95,6 +95,8 @@ h2{
     }
     .home{
         padding: 0px;
+        padding-top: 15px;
+        height: auto;
         flex-direction: column-reverse;
     }
     .text{
